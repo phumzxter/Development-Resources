@@ -1,4 +1,6 @@
-# GamedevResources
+# Development Resources
+
+-------------------------------------------------------------------------------------------------------------
 
 ## Portfolio Build
 - https://www.appbrewery.co/p/web-development-course-resources/
@@ -6,6 +8,7 @@
 - https://carrd.co/dashboard/add
 - https://readme.so/
 
+-------------------------------------------------------------------------------------------------------------
 
 ## UX/UI Design
 - https://www.youtube.com/watch?v=HZuk6Wkx_Eg&list=WL&index=12
@@ -19,6 +22,7 @@
 - https://www.flaticon.com/
 - https://carbon.now.sh/
 
+-------------------------------------------------------------------------------------------------------------
 
 ## iOS Development
 - https://cs193p.sites.stanford.edu/
@@ -26,10 +30,54 @@
 - https://www.hackingwithswift.com/100/swiftui
 - https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
+-------------------------------------------------------------------------------------------------------------
 
 ## Web Development
--
+**HTML/CSS/JS** 
+- https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
+- https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
+- https://www.youtube.com/watch?v=lpzExNZDizI&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=7
 
+**React** 
+- https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038306#overview
+- https://reactjs.org/docs/hello-world.html
+- https://www.youtube.com/watch?v=6LyagkoRWYA
+
+**Next Js** 
+- https://nextjs.org/learn/foundations/about-nextjs
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9jClk8wl1yJcN3Zlrr8YSA1
+- https://www.youtube.com/playlist?list=PL4cUxeGkcC9ig-veuRaLI4QB0Ws8xMzjv
+- https://www.youtube.com/watch?v=kap8xrWMNDM
+- https://www.youtube.com/watch?v=24hFVa3hgVw
+- https://www.youtube.com/watch?v=i7ck-bx0yCw
+- https://www.youtube.com/watch?v=jfNS3254gS8
+
+**Tailwind** 
+- https://www.youtube.com/watch?v=dFgzHOX84xQ&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=7
+- https://www.youtube.com/watch?v=ZU-drSVodBw&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=6
+- https://www.youtube.com/watch?v=zFxG1sglWBI&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=8&t=1409s
+- https://www.youtube.com/watch?v=mfpEn52dD5k
+- https://nerdcave.com/tailwind-cheat-sheet/ - Tailwind Cheat Sheet
+- https://www.themes.dev/tailwindcss-colors/ - Tailwind Color Palette
+
+**Side Projects** 
+- https://mythemeshop.com/blog/how-to-create-review-website/
+- https://www.youtube.com/watch?v=_itMdiSc0KI
+- https://www.youtube.com/watch?v=kKDdorks3Iw
+- https://www.youtube.com/watch?v=5TvmwqRm2BA
+- https://github.com/Kennygunderman/Python-job-application-bot
+
+**Portfolio Developing** 
+- https://www.youtube.com/watch?v=OPaLnMw2i_0&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=5
+- https://www.youtube.com/watch?v=bL4tJyS1xR8
+- https://reactjsexample.com/a-clean-and-simple-portfolio-template-for-developers/
+- https://github.com/rajshekhar26/cleanfolio-minimal
+- https://github.com/gurupawar/portfolio-react
+- https://gurusheshp.vercel.app/
+
+
+-------------------------------------------------------------------------------------------------------------
 
 ## Ecom Development
 **Medusa** 
@@ -42,17 +90,20 @@
 - https://github.com/saleor/saleor
 - https://www.youtube.com/watch?v=jQUNaSD-3yU
 
+-------------------------------------------------------------------------------------------------------------
 
 ## Web 3
 - https://www.youtube.com/watch?v=Wn_Kb3MR_cU&list=PLZUEyqpREkaeJ3wd8eMfk6gESS5VWB8xz&index=3&t=1s
 - https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PLZUEyqpREkaeJ3wd8eMfk6gESS5VWB8xz&index=2&t=4s
 - https://www.youtube.com/watch?v=C9ctoK4M9Bk&list=PLZUEyqpREkaeJ3wd8eMfk6gESS5VWB8xz&index=3&t=76s
 
+-------------------------------------------------------------------------------------------------------------
 
 ## Algorithms
 - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 - https://www.youtube.com/watch?v=ZEQh45W_UDo
 
+-------------------------------------------------------------------------------------------------------------
 
 ## Gamedev Resources
 - https://devassets.com/assets/sci-fi-weapons/
@@ -63,6 +114,7 @@
 - https://www.gameassetsgarden.com/3d-models.php
 - https://pressstart.vip/resources
 
+-------------------------------------------------------------------------------------------------------------
 
 ## Useful Repos
 - https://github.com/Asabeneh/30-Days-Of-JavaScript
@@ -70,6 +122,7 @@
 - https://github.com/Asabeneh/10-days-of-git-and-github
 - https://github.com/velmurugan444?tab=repositories
 
+-------------------------------------------------------------------------------------------------------------
 
 ## Certificates
 - https://www.coursera.org/learn/user-experience-design
