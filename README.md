@@ -12,12 +12,12 @@
 - https://www.youtube.com/watch?v=zFxG1sglWBI&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=9&t=1409s
 - https://www.youtube.com/watch?v=5IanQIwhA4E
 - https://www.awwwards.com/
-### Resources
+Resources
 - https://www.thinkful.com/blog/web-developer-cheat-sheet/
 - https://www.iconfinder.com/
 - https://www.flaticon.com/
 - https://carbon.now.sh/
-- 
+
 
 ## iOS Development
 - https://cs193p.sites.stanford.edu/
@@ -25,27 +25,32 @@
 - https://www.hackingwithswift.com/100/swiftui
 - https://www.udemy.com/course/ios-13-app-development-bootcamp/
 
+
 ## Web Development
 -
 
+
 ## Ecom Development
-### Medusa 
+Medusa 
 - https://medusajs.com/
 - https://docs.medusajs.com/
 - https://github.com/medusajs/medusa
-
-### Saleor 
+Saleor 
 - https://saleor.io/
 - https://github.com/saleor/saleor
 - https://www.youtube.com/watch?v=jQUNaSD-3yU
 
+
 ## Web 3
--
+- https://www.youtube.com/watch?v=Wn_Kb3MR_cU&list=PLZUEyqpREkaeJ3wd8eMfk6gESS5VWB8xz&index=3&t=1s
+- https://www.youtube.com/watch?v=Y89q6T1r1Yg&list=PLZUEyqpREkaeJ3wd8eMfk6gESS5VWB8xz&index=2&t=4s
+- https://www.youtube.com/watch?v=C9ctoK4M9Bk&list=PLZUEyqpREkaeJ3wd8eMfk6gESS5VWB8xz&index=3&t=76s
 
 
 ## Algorithms
 - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
 - https://www.youtube.com/watch?v=ZEQh45W_UDo
+
 
 ## Gamedev Resources
 - https://devassets.com/assets/sci-fi-weapons/
@@ -56,11 +61,13 @@
 - https://www.gameassetsgarden.com/3d-models.php
 - https://pressstart.vip/resources
 
+
 ## Useful Repos
 - https://github.com/Asabeneh/30-Days-Of-JavaScript
 - https://github.com/Asabeneh/30-Days-Of-React
 - https://github.com/Asabeneh/10-days-of-git-and-github
 - https://github.com/velmurugan444?tab=repositories
+
 
 ## Certificates
 - https://www.coursera.org/learn/user-experience-design
