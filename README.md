@@ -1,13 +1,23 @@
 # GamedevResources
 
-## Design Resources
-- https://devassets.com/assets/sci-fi-weapons/
-- https://craftpix.net/freebies/
-- https://alstrainfinite.itch.io/medieval-swords
-- https://unityassetcollection.com/category/3d/page/6/
-- https://free3d.com
-- https://www.gameassetsgarden.com/3d-models.php
-- https://pressstart.vip/resources
+## Portfolio Build
+- https://www.appbrewery.co/p/web-development-course-resources/
+- https://www.profileme.dev/
+- https://carrd.co/dashboard/add
+- https://readme.so/
+
+
+## UX/UI Design
+- https://www.youtube.com/watch?v=HZuk6Wkx_Eg&list=WL&index=12
+- https://www.youtube.com/watch?v=zFxG1sglWBI&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=9&t=1409s
+- https://www.youtube.com/watch?v=5IanQIwhA4E
+- https://www.awwwards.com/
+### Resources
+- https://www.thinkful.com/blog/web-developer-cheat-sheet/
+- https://www.iconfinder.com/
+- https://www.flaticon.com/
+- https://carbon.now.sh/
+- 
 
 ## iOS Development
 - https://cs193p.sites.stanford.edu/
@@ -18,17 +28,33 @@
 ## Web Development
 -
 
-## Design Resources
+## Ecom Development
+### Medusa 
+- https://medusajs.com/
+- https://docs.medusajs.com/
+- https://github.com/medusajs/medusa
+
+### Saleor 
+- https://saleor.io/
+- https://github.com/saleor/saleor
+- https://www.youtube.com/watch?v=jQUNaSD-3yU
+
+## Web 3
 -
 
-## UX/UI Design
--
 
-## Portfolio Build
-- https://www.appbrewery.co/p/web-development-course-resources/
-- https://www.profileme.dev/
-- https://carrd.co/dashboard/add
-- https://readme.so/
+## Algorithms
+- https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+- https://www.youtube.com/watch?v=ZEQh45W_UDo
+
+## Gamedev Resources
+- https://devassets.com/assets/sci-fi-weapons/
+- https://craftpix.net/freebies/
+- https://alstrainfinite.itch.io/medieval-swords
+- https://unityassetcollection.com/category/3d/page/6/
+- https://free3d.com
+- https://www.gameassetsgarden.com/3d-models.php
+- https://pressstart.vip/resources
 
 ## Useful Repos
 - https://github.com/Asabeneh/30-Days-Of-JavaScript
