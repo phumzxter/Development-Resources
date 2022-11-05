@@ -13,7 +13,7 @@
 - https://www.youtube.com/watch?v=5IanQIwhA4E
 - https://www.awwwards.com/
 
-Resources
+**Resources**
 - https://www.thinkful.com/blog/web-developer-cheat-sheet/
 - https://www.iconfinder.com/
 - https://www.flaticon.com/
@@ -32,12 +32,12 @@ Resources
 
 
 ## Ecom Development
-Medusa 
+**Medusa** 
 - https://medusajs.com/
 - https://docs.medusajs.com/
 - https://github.com/medusajs/medusa
 
-Saleor 
+**Saleor** 
 - https://saleor.io/
 - https://github.com/saleor/saleor
 - https://www.youtube.com/watch?v=jQUNaSD-3yU
