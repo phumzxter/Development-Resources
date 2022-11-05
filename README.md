@@ -1,6 +1,6 @@
 # GamedevResources
 
-##Design Resources
+## Design Resources
 - https://devassets.com/assets/sci-fi-weapons/
 - https://craftpix.net/freebies/
 - https://alstrainfinite.itch.io/medieval-swords
