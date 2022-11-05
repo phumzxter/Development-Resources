@@ -73,6 +73,7 @@
 - https://www.youtube.com/watch?v=kKDdorks3Iw
 - https://www.youtube.com/watch?v=5TvmwqRm2BA
 - https://github.com/Kennygunderman/Python-job-application-bot
+- https://www.youtube.com/watch?v=-ONUyenGnWw&t=9s
 
 **Portfolio Developing** 
 - https://www.youtube.com/watch?v=OPaLnMw2i_0&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=5
