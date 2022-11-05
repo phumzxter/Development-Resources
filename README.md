@@ -12,6 +12,7 @@
 - https://www.youtube.com/watch?v=zFxG1sglWBI&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=9&t=1409s
 - https://www.youtube.com/watch?v=5IanQIwhA4E
 - https://www.awwwards.com/
+
 Resources
 - https://www.thinkful.com/blog/web-developer-cheat-sheet/
 - https://www.iconfinder.com/
@@ -35,6 +36,7 @@ Medusa
 - https://medusajs.com/
 - https://docs.medusajs.com/
 - https://github.com/medusajs/medusa
+
 Saleor 
 - https://saleor.io/
 - https://github.com/saleor/saleor
