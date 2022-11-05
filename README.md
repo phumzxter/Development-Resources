@@ -37,6 +37,7 @@
 - https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
 - https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
 - https://www.youtube.com/watch?v=lpzExNZDizI&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=7
+- https://www.youtube.com/watch?v=zFxG1sglWBI&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam&index=6
 
 **React** 
 - https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038306#overview
@@ -52,6 +53,11 @@
 - https://www.youtube.com/watch?v=24hFVa3hgVw
 - https://www.youtube.com/watch?v=i7ck-bx0yCw
 - https://www.youtube.com/watch?v=jfNS3254gS8
+- https://www.youtube.com/watch?v=K4fuBEXkWPk&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam&index=2&t=3s
+- https://www.youtube.com/watch?v=K0YSi1asP48&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam&index=1
+- https://www.youtube.com/watch?v=9XJkP9ACUss&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam&index=3
+- https://www.youtube.com/watch?v=W8IK3MeJ5H0&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam&index=4
+- https://www.youtube.com/watch?v=1T3GF6endl8&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam&index=5
 
 **Tailwind** 
 - https://www.youtube.com/watch?v=dFgzHOX84xQ&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=7
@@ -76,7 +82,6 @@
 - https://github.com/gurupawar/portfolio-react
 - https://gurusheshp.vercel.app/
 
-
 -------------------------------------------------------------------------------------------------------------
 
 ## Ecom Development
@@ -89,6 +94,12 @@
 - https://saleor.io/
 - https://github.com/saleor/saleor
 - https://www.youtube.com/watch?v=jQUNaSD-3yU
+
+**Tutorials**
+- https://www.youtube.com/watch?v=4mOkFXyxfsU&list=PLZUEyqpREkafPyoRkp2R7D5n-3zkBy0lL
+- https://www.youtube.com/watch?v=1NWBO8L81J8&list=PLZUEyqpREkafPyoRkp2R7D5n-3zkBy0lL&index=2
+- https://www.youtube.com/watch?v=_IBlyR5mRzA&list=PLZUEyqpREkafPyoRkp2R7D5n-3zkBy0lL&index=3
+- https://www.youtube.com/watch?v=K0YSi1asP48&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam
 
 -------------------------------------------------------------------------------------------------------------
 
@@ -113,6 +124,14 @@
 - https://free3d.com
 - https://www.gameassetsgarden.com/3d-models.php
 - https://pressstart.vip/resources
+
+**Tutorials**
+- https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL
+- https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR
+- https://www.youtube.com/watch?v=pSiIHe2uZ2w&list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51
+- https://www.youtube.com/watch?v=rJqP5EesxLk&list=PLGUw8UNswJEOv8c5ZcoHarbON6mIEUFBC
+- https://www.youtube.com/watch?v=b8YUfee_pzc&list=PLZUEyqpREkace0AVRkkEK5ZU_e1L3kHY8
+- https://www.youtube.com/watch?v=Wr-rKmRtP2I&list=PLZUEyqpREkace0AVRkkEK5ZU_e1L3kHY8&index=2
 
 -------------------------------------------------------------------------------------------------------------
 
