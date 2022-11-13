@@ -25,10 +25,10 @@
 -------------------------------------------------------------------------------------------------------------
 
 ## iOS Development
-- https://cs193p.sites.stanford.edu/
-- https://www.hackingwithswift.com/100
-- https://www.hackingwithswift.com/100/swiftui
-- https://www.udemy.com/course/ios-13-app-development-bootcamp/
+- https://www.hackingwithswift.com/ - Paul Hudson Swift
+- https://www.hackingwithswift.com/100/swiftui - Paul Hudson SwiftUI
+- https://cs193p.sites.stanford.edu/ - Stanford SwiftUI Course
+- https://www.udemy.com/course/ios-13-app-development-bootcamp/ - Angela Yu (Little Outdated)
 
 -------------------------------------------------------------------------------------------------------------
 
