@@ -2,19 +2,17 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-## Portfolio Build
-- https://www.appbrewery.co/p/web-development-course-resources/
-- https://www.profileme.dev/
-- https://carrd.co/dashboard/add
-- https://readme.so/
+## Information Build
+- https://www.profileme.dev/ - Github Readme
+- https://carrd.co/dashboard/add - Card Information Popup
+- https://readme.so/ - Create Readme Documentation
 
 -------------------------------------------------------------------------------------------------------------
 
 ## UX/UI Design
-- https://www.youtube.com/watch?v=HZuk6Wkx_Eg&list=WL&index=12
-- https://www.youtube.com/watch?v=zFxG1sglWBI&list=PLZUEyqpREkaehGwWqbPbyoDa6BWL1N1Ej&index=9&t=1409s
-- https://www.youtube.com/watch?v=5IanQIwhA4E
-- https://www.awwwards.com/
+- https://www.youtube.com/watch?v=HZuk6Wkx_Eg&list=WL&index=12 - Figma Tutorial
+- https://www.youtube.com/watch?v=5IanQIwhA4E - Figma Tutorial
+- https://www.awwwards.com/ - Inspiration
 
 **Resources**
 - https://www.thinkful.com/blog/web-developer-cheat-sheet/
@@ -24,20 +22,12 @@
 
 -------------------------------------------------------------------------------------------------------------
 
-## iOS Development
-- https://www.hackingwithswift.com/ - Paul Hudson Swift
-- https://www.hackingwithswift.com/100/swiftui - Paul Hudson SwiftUI
-- https://cs193p.sites.stanford.edu/ - Stanford SwiftUI Course
-- https://www.udemy.com/course/ios-13-app-development-bootcamp/ - Angela Yu (Little Outdated)
-
--------------------------------------------------------------------------------------------------------------
-
 ## Web Development
 **HTML/CSS/JS** 
-- https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G
-- https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET
-- https://www.youtube.com/watch?v=lpzExNZDizI&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=7
-- https://www.youtube.com/watch?v=zFxG1sglWBI&list=PLZUEyqpREkacQgwyn1FaQsTMtpI2NXOam&index=6
+- https://www.youtube.com/watch?v=oy8dSsK57Ps - Bedmicode (Responsive Protfolio)
+- https://www.youtube.com/watch?v=AKNvTxWOdKw - Bedmicode (Responsive Protfolio)
+- https://www.youtube.com/watch?v=27JtRAI3QO8 - Bedmicode (Responsive Protfolio)
+- https://www.youtube.com/watch?v=lpzExNZDizI&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=7 - Bedmicode (Responsive Website)
 
 **React** 
 - https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038306#overview
@@ -82,6 +72,14 @@
 - https://github.com/rajshekhar26/cleanfolio-minimal
 - https://github.com/gurupawar/portfolio-react
 - https://gurusheshp.vercel.app/
+
+-------------------------------------------------------------------------------------------------------------
+
+## iOS Development
+- https://www.hackingwithswift.com/ - Paul Hudson Swift
+- https://www.hackingwithswift.com/100/swiftui - Paul Hudson SwiftUI
+- https://cs193p.sites.stanford.edu/ - Stanford SwiftUI Course
+- https://www.udemy.com/course/ios-13-app-development-bootcamp/ - Angela Yu (Little Outdated)
 
 -------------------------------------------------------------------------------------------------------------
 
