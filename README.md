@@ -30,9 +30,10 @@
 - https://www.youtube.com/watch?v=lpzExNZDizI&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=7 - Bedmicode (Responsive Website)
 
 **React** 
-- https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038306#overview
-- https://reactjs.org/docs/hello-world.html
-- https://www.youtube.com/watch?v=6LyagkoRWYA
+- https://reactjs.org/docs/hello-world.html - Documentation
+- https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d - Net Ninja 
+- https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038306#overview - Angela Yu
+- https://www.youtube.com/watch?v=6LyagkoRWYA - Traversy (Axios Crash Course)
 
 **Next Js** 
 - https://nextjs.org/learn/foundations/about-nextjs
