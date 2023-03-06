@@ -34,6 +34,8 @@
 - https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d - Net Ninja 
 - https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038306#overview - Angela Yu
 - https://www.youtube.com/watch?v=6LyagkoRWYA - Traversy (Axios Crash Course)
+- https://www.youtube.com/watch?v=cd3P3yXyx30 - 2023
+- https://www.youtube.com/watch?v=BCkWFblNLKU - Full Stack Ecom
 
 **Next Js** 
 - https://nextjs.org/learn/foundations/about-nextjs
@@ -58,6 +60,11 @@
 - https://nerdcave.com/tailwind-cheat-sheet/ - Tailwind Cheat Sheet
 - https://www.themes.dev/tailwindcss-colors/ - Tailwind Color Palette
 
+**Projects** 
+- https://www.youtube.com/watch?v=KI5CnJ9u5ok
+- https://www.youtube.com/watch?v=csUM7yfiaMw
+- https://www.youtube.com/watch?v=EyIvuigqDoA&list=WL&index=3&t=6s
+
 **Side Projects** 
 - https://mythemeshop.com/blog/how-to-create-review-website/
 - https://www.youtube.com/watch?v=_itMdiSc0KI
@@ -69,6 +76,8 @@
 **Portfolio Developing** 
 - https://www.youtube.com/watch?v=OPaLnMw2i_0&list=PLZUEyqpREkadnvEp22A7SyTT2Y-hPEhHO&index=5
 - https://www.youtube.com/watch?v=bL4tJyS1xR8
+- https://www.youtube.com/watch?v=Hps-XPN1GeE
+- https://www.youtube.com/watch?v=qALsVa-V9qo - React + Three.js
 - https://reactjsexample.com/a-clean-and-simple-portfolio-template-for-developers/
 - https://github.com/rajshekhar26/cleanfolio-minimal
 - https://github.com/gurupawar/portfolio-react
